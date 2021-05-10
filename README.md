@@ -1,2 +1,2 @@
-# pdf_compressor
-Contains a simple script to compress a pdf file
+# pdf_merger
+Contains a simple script to merge pdf files
